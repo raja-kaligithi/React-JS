@@ -1,0 +1,41 @@
+React js :- it was open source java script libiray used to build user interface. developed by facebook.
+
+advantages of react js :-
+performat webites.
+fewer lines of code.
+large community.
+ease to understand
+resuble of code 
+less time comsuming
+
+
+
+creating element using React js :-
+
+React.createElement():- this command help to create element in react js
+similarly in java script we use document.createElement()
+
+
+syntax:-
+
+
+React,createElement(type,props)
+type:- type of tages we use for example div, h1,p1....
+properteries:- className,id,onclick........  
+props is opitional in react js 
+
+
+for displaying element we react rendor element 
+
+syntax is
+
+ReactDOM.rendor(reactElement,container) its helps to display the react js elements 
+arguments are reactelement,container.
+
+reactElement :- what to render
+container:-  where to render
+
+
+
+
+
